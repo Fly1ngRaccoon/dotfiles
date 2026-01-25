@@ -1,6 +1,0 @@
-alias brave="prime-run brave"
-alias discord="prime-run discord"
-alias steam="prime-run steam"
-alias spotify-launcher="prime-run spotify-launcher"
-
-alias nv="nvim"
